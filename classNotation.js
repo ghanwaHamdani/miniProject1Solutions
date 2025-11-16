@@ -41,3 +41,4 @@ let c2 = new Course('Data Science','Dr. Evil',6,[a3, a4]);
 
 c1.courseInfo();
 c2.courseInfo();
+
